@@ -9,6 +9,7 @@ npm i
     lodash 
     react-hook-form zod @hookform/resolvers 
     react-redux @reduxjs/toolkit dotenv --legayc-peer-deps
+    @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/react-fontawesome --legacy-peer-deps
 npm i -D 
     @types/node 
     @types/uuid
